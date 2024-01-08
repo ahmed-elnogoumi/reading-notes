@@ -22,4 +22,9 @@ Here's 3 ways to really embrace this sort of mindset.
 - **Embrace Challenges:** While learning any new skill, challenges will always be present. This isn't a bad thing - in-fact, I'd make an argument that challenges are a *good* thing when working on learning any new skill. With a growth mindset, stepping back after a challenge to see what one can do to improve will always trump shrinking away from challenges.
 - **Ask Others For Help:** This is a major one. Sometimes, learning a new skill can be extremely difficult. However, asking others for help can give you a fresh new perspective on things. Use your support system! Ask for constructive feedback too!
 - **Take a Step Back (Sometimes)**: When working on challenging problems, sometimes it's good to take a step back to give your brain a break. Complex problems get less complex with more perspective and as you practice more and more, complexities become less scary and easier to work with.
-  - **An aside:** Don't take *too long* of a break, sometimes you can lose a problem if you aren't taking a look at your work periodically. (Speaking from experience.)  
+  - **An aside:** Don't take *too long* of a break, sometimes you can lose a problem if you aren't taking a look at your work periodically. (Speaking from experience.)
+
+# About Me
+I'm Ahmed Elnogoumi - I'm currently a student at Code Fellows - I have a love of learning and technology.
+
+Check out my GitHub here: https://github.com/ahmed-elnogoumi
