@@ -1,4 +1,4 @@
-# Table of Contents
+# Homepage
 
 ## About Me
 I'm Ahmed Elnogoumi - I'm currently a student at Code Fellows - I have a love of learning and technology.
