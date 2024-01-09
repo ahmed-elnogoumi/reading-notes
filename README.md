@@ -1,31 +1,40 @@
-# Reading Notes
+# Table of Contents
 
-![Image of a brain with a plant stem growing out of it](https://cdn.discordapp.com/attachments/1090450282598641715/1194005555560329227/kr_01_image_of_a_brain_made_of_soil_with_bud_of_plant_growing_i_4f0c2ac7-8f94-4bfe-ae89-f5a46042a850.png?ex=65aec753&is=659c5253&hm=b87ed8fd55ab3150f05ba8072fb1ea77e0b2249a8d6e332dda62ac6f8347a2ed&)
-<figcaption>
-  <p>A representation of growth mindset, courtesy of Midjourney version 6.</p>
-</figcaption>
-
-> A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
-
-Via [How you can benefit from a growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
-
-
-## What is a 'Growth Mindset'?
-
-'Growth Mindset' is the worldview of veiwing traits - such as intellegience, ability and talent, not as fixed traits given to one at birth but as skills one can develop through challenge and perserverance. While it is possible to find oneself as having more or less aptitude in a certain skill, those skills can be developed by chosing to have the mentality of growth.
-
-## That's great - but how can I embrace a 'Growth Mindset'? What are some ways I can do this?
-
-Embracing growth mentality isn't really hard. It does, however, require looking at things a bit differently.
-
-Here's 3 ways to really embrace this sort of mindset.
-
-- **Embrace Challenges:** While learning any new skill, challenges will always be present. This isn't a bad thing - in-fact, I'd make an argument that challenges are a *good* thing when working on learning any new skill. With a growth mindset, stepping back after a challenge to see what one can do to improve will always trump shrinking away from challenges.
-- **Ask Others For Help:** This is a major one. Sometimes, learning a new skill can be extremely difficult. However, asking others for help can give you a fresh new perspective on things. Use your support system! Ask for constructive feedback too!
-- **Take a Step Back (Sometimes)**: When working on challenging problems, sometimes it's good to take a step back to give your brain a break. Complex problems get less complex with more perspective and as you practice more and more, complexities become less scary and easier to work with.
-  - **An aside:** Don't take *too long* of a break, sometimes you can lose a problem if you aren't taking a look at your work periodically. (Speaking from experience.)
-
-# About Me
+## About Me
 I'm Ahmed Elnogoumi - I'm currently a student at Code Fellows - I have a love of learning and technology.
 
 Check out my GitHub here: https://github.com/ahmed-elnogoumi
+
+## About this Site
+This is a site where I'll host all my readings done here at Code Fellows - this will be regularly updated throughout the time here at my 102 and 201 classes.
+
+## Table of Contents
+
+### 102
+
+1. [Reading 1](./102/reading1.md)
+2. [Reading 2](./102/reading2.md)
+3. [Reading 3](./102/reading3.md)
+4. [Reading 4](./102/reading4.md)
+5. [Reading 5](./102/reading5.md)
+6. [Reading 6](./102/reading6.md)
+7. [Reading 7](./102/reading7.md)
+8. [Reading 8](./102/reading8.md)
+
+### 201
+
+1. [Reading 1](./201/reading1.md)
+2. [Reading 2](./201/reading2.md)
+3. [Reading 3](./201/reading3.md)
+4. [Reading 4](./201/reading4.md)
+5. [Reading 5](./201/reading5.md)
+6. [Reading 6](./201/reading6.md)
+7. [Reading 7](./201/reading7.md)
+8. [Reading 8](./201/reading8.md)
+9. [Reading 9](./201/reading9.md)
+10. [Reading 10](./201/reading10.md)
+11. [Reading 11](./201/reading11.md)
+12. [Reading 12](./201/reading12.md)
+13. [Reading 13](./201/reading13.md)
+14. [Reading 14](./201/reading14.md)
+15. [Reading 15](./201/reading15.md)
