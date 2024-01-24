@@ -4,7 +4,7 @@
 
 I'm Ahmed Elnogoumi - I'm currently a student at Code Fellows - I have a love of learning and technology.
 
-Check out my GitHub here: https://github.com/ahmed-elnogoumi
+Check out my GitHub [here](https://github.com/ahmed-elnogoumi)
 
 ## About this Site
 
