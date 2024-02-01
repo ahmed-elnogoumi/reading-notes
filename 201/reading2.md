@@ -49,5 +49,5 @@ h2 {
     - To use a conditional if the first if isn't true but you don't want the code to go through to the else statement yet.
 3. List 3 different types of comparison operators.
     - ===, !==, <
-4. What is the difference between the logical operator && and ||?
-    - && is an and operator, || is an or operator.
+4. What is the difference between the logical operator && and '||'?
+    - && is an and operator, '||' is an or operator.
