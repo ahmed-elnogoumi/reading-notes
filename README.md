@@ -1,11 +1,13 @@
 # Homepage
 
 ## About Me
+
 I'm Ahmed Elnogoumi - I'm currently a student at Code Fellows - I have a love of learning and technology.
 
-Check out my GitHub here: https://github.com/ahmed-elnogoumi
+Check out my GitHub [here](https://github.com/ahmed-elnogoumi)
 
 ## About this Site
+
 This is a site where I'll host all my readings done here at Code Fellows - this will be regularly updated throughout the time here at my 102 and 201 classes.
 
 ## Table of Contents
@@ -39,6 +41,12 @@ This is a site where I'll host all my readings done here at Code Fellows - this 
 14. [Reading 14](./201/reading14.md)
 15. [Reading 15](./201/reading15.md)
 
+<<<<<<< HEAD
 ### Code 301 - Intermediate Software Development
 
 ### Code 401 - Advanced Software Development
+=======
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
+>>>>>>> 1dec8efb702bbac110143f438c6943ddccbd9701
