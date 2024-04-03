@@ -46,3 +46,4 @@ This is a site where I'll host all my readings done here at Code Fellows - this 
 ### Code 401 - Advanced Software Development
 
 1. [Reading 1](./401/reading1.md)
+2. [Reading 2](./401/reading2.md)
