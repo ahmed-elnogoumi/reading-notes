@@ -30,3 +30,8 @@
 
 3. What is the purpose of route middleware?
     - To perform operations on request/response objects.
+
+## Reflection
+
+- What are your learning goals after reading and reviewing the class README?
+    - To get more familiar with sqlize
