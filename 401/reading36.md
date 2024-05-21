@@ -18,4 +18,4 @@
     - Use: Used to register functions that need to be notified when the state changes, such as updating the UI in response to state updates.
 
 4. Explain to a Non-Technical Recruiter What combineReducers() Does and Why It Is Useful
-    - combineReducers() is a function that simplifies handling complex state management by allowing us to split the state into smaller, more manageable pieces. Each piece of state is managed by its own reducer function. Instead of having one large reducer function that handles all parts of the state, we can have multiple smaller reducer functions, each responsible for a specific part of the
+    - combineReducers() is a function that simplifies handling complex state management by allowing us to split the state into smaller, more manageable pieces. Each piece of state is managed by its own reducer function. Instead of having one large reducer function that handles all parts of the state, we can have multiple smaller reducer functions, each responsible for a specific part of the function.
